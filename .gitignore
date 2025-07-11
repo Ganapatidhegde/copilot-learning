@@ -1,0 +1,12 @@
+# Node modules
+news-platform/node_modules/
+news-platform-client/node_modules/
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+
+# Environment files
+*.env
